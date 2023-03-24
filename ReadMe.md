@@ -25,6 +25,6 @@
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ---
-![](https://visitcount.itsvg.in/api?id=Shubhh4&label=Profile%20Views&color=1&icon=5&pretty=false)](https://visitcount.itsvg.in)
+![](https://visitcount.itsvg.in/api?id=Shubhh4&label=Profile%20Views&color=1&icon=5&pretty=false)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
