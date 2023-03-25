@@ -2,7 +2,7 @@
 ![](https://visitcount.itsvg.in/api?id=Shubhh4&label=Profile%20Views&color=1&icon=5&pretty=false)
 
 # 💫 About Me:
-👋 Hi, I’m Shubham<br>🔭 I’m currently working on Full Stack Web3 Development<br>🌱 I’m currently learning Backend Development - Node and Smart Contract Auditing<br>👯 I’m looking to collaborate on Open Source, MERN, and Web3 Development Projects<br>👨‍💻 Fun fact: I'm lazy but Focused<br>📝Ask me about Web3<br>📫 How to reach me sk192196@gmail.com
+👋 Hi, I’m Shubham<br>🔭 I’m currently working on Full Stack Web3 Development<br>🌱 I’m currently learning Backend Development - Node and Smart Contract Auditing<br>👯 I’m looking to collaborate on Open Source, MERN, and Web3 Development Projects<br>👨‍💻 Fun fact: I'm lazy but Focused<br>📝 Ask me about Web3<br>📫 How to reach me sk192196@gmail.com
 
 
 ## 🌐 Socials:
