@@ -36,9 +36,7 @@
  <a href="https://github.com/Shubhh4/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubhh4&layout=compact&bg_color=0d1117&text_color=40cfcd&border_color=444"  height="165">
   </a>
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Shubhh45&column=6&theme=onedark" align="center"/>
-</div>
+
 
 
 
