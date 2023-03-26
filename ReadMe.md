@@ -1,5 +1,5 @@
 ---
-![](https://visitcount.itsvg.in/api?id=Shubhh4&label=Profile%20Views&color=1&icon=5&pretty=false)  <a href="https://twitter.com/Shubhh4_" target="hii"><img src="https://img.shields.io/twitter/follow/Shubhh4_?logo=twitter&style=for-the-badge" alt="Shubhh4_" /></a>
+![](https://visitcount.itsvg.in/api?id=Shubhh4&label=Profile%20Views&color=1&icon=5&pretty=false)  <a href="https://twitter.com/Shubhh4_" target="blank"><img src="https://img.shields.io/twitter/follow/Shubhh4_?logo=twitter&style=for-the-badge" alt="Shubhh4_" /></a>
 
 # 💫 About Me:
 👋 Hi, I’m Shubham<br>🔭 I’m currently working on Full Stack Web3 Development<br>🌱 I’m currently learning Backend Development - Node and Smart Contract Auditing<br>👯 I’m looking to collaborate on Open Source, MERN, and Web3 Development Projects<br>👨‍💻 Fun fact: I'm lazy but Focused<br>📝 Ask me about Web3<br>📫 How to reach me sk192196@gmail.com
