@@ -3,7 +3,7 @@
 ![](https://visitcount.itsvg.in/api?id=Shubhh4&label=Profile%20Views&color=1&icon=5&pretty=false) <!-- <a href="https://twitter.com/Shubhh4_" target="blank"><img src="https://img.shields.io/twitter/follow/Shubhh4_?logo=twitter&style=for-the-badge" alt="Shubhh4_" /></a> -->
 
 # 💫 About Me:
-<br>🔭 I’m currently working on Full Stack Web3 Development<br>🌱 I’m currently learning Regenerative finance and Smart Contract Auditing<br>👯 I’m looking to collaborate on Open Source, Smart Contract development<br>👨‍💻 Fun fact: I'm lazy but Focused<br>📝 Ask me about Web3<br>📫 How to reach me sk192196@gmail.com
+<br>🔭 I’m currently working on Full Stack Web3 Development<br>🌱 I’m currently learning Regenerative finance and Hyperledger fabric<br>👯 I’m looking to collaborate on Open Source, Smart Contract development<br>👨‍💻 Fun fact: I'm lazy but Focused<br>📝 Ask me about Web3<br>📫 How to reach me sk192196@gmail.com
 
 
 ## 🌐 Socials:
