@@ -25,6 +25,10 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+### 📝 My Latest Blog Post in Medium
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@sk192196/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@sk192196/0" alt="Recent Article 0">
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@sk192196/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@sk192196/1" alt="Recent Article 2">
+
  </p>
 
 ## 🐍 The snake's eating up my contributions.
