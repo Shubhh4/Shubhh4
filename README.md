@@ -6,7 +6,7 @@ Hi, I'm Shubham, a Java Developer, Blockchain Enthusiast, and Open Source Develo
 - Java Development - Blockchain - DevOps
   
 
-# Socials:
+### Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/shubham4p) [![Gmail Badge](https://img.shields.io/badge/-GMail-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:sk192196@gmail.com)](mailto:sk192196@gmail.com)
  [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@@sk192196) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/Shubhh4_) 
  
