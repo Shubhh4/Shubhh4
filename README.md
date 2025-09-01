@@ -1,9 +1,9 @@
 ### Hey 👋🏽, I'm [Shubham!](https://Shubhh4.me) 
 
-Hi, I'm Shubham, a Java Developer, Blockchain Enthusiast, and Open Source Developer🚀 from India.
+Hi, I'm Shubham, a Full stack Developer, Blockchain Enthusiast, and Open Source Developer🚀 from India.
 
 
-- Java Development - Blockchain - DevOps
+- Full stack Development - Blockchain - DevOps
   
 
 ### Socials:
